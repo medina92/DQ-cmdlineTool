@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item> 
+        <name> Patchwork cloak </name>
+        <speed> 1 </speed>
+        <brawn> 0 </brawn>
+        <magic> 0 </magic>
+        <armour> 0 </armour>
+        <specialAbil> null </specialAbil>
+        <id> 68 </id>
+        <slot> cloak </slot>
+    </item>
+    
+    <item> 
+        <name> Bat cape </name>
+        <speed> 1 </speed>
+        <brawn> 0 </brawn>
+        <magic> 0 </magic>
+        <armour> 1 </armour>
+        <specialAbil> null </specialAbil>
+        <id> 114 </id>
+        <slot> cloak </slot>
+    </item>
+    
+    <item> 
+        <name> Spindlesilk cloak </name>
+        <speed> 1 </speed>
+        <brawn> 0 </brawn>
+        <magic> 2 </magic>
+        <armour> 0 </armour>
+        <specialAbil> Spindlesilk set </specialAbil>
+        <id> 132 </id>
+        <slot> cloak </slot>
+    </item>
+    
+    <item> 
+        <name> Chieftain’s furs </name>
+        <speed> 0 </speed>
+        <brawn> 0 </brawn>
+        <magic> 0 </magic>
+        <armour> 1 </armour>
+        <specialAbil> null </specialAbil>
+        <id> 260 </id>
+        <slot> cloak </slot>
+    </item>
+
+    <item> 
+        <name> Traveller's cloak </name>
+        <speed> 0 </speed>
+        <brawn> 0 </brawn>
+        <magic> 1 </magic>
+        <armour> 1 </armour>
+        <specialAbil> Charm </specialAbil>
+        <id> 251 </id>
+        <slot> cloak </slot>
+    </item>
+
+    <item>
+         <name> Moth-eaten blanket </name>
+         <speed> 1 </speed>
+         <brawn> 0 </brawn>
+         <magic> 0 </magic>
+         <armour> 0 </armour>
+         <specialAbil> null </specialAbil>
+         <id> 40 </id>
+         <slot> cloak </slot>
+     </item>
+     
+     <item>
+         <name> Crusader’s mantle </name>
+         <speed> 1 </speed>
+         <brawn> 0 </brawn>
+         <magic> 0 </magic>
+         <armour> 0 </armour>
+         <specialAbil> Charm </specialAbil>
+         <id> 160 </id>
+         <slot> cloak </slot>
+     </item>
+     
+     <item>
+         <name> Hag’s shawl </name>
+         <speed> 0 </speed>
+         <brawn> 0 </brawn>
+         <magic> 1 </magic>
+         <armour> 1 </armour>
+         <specialAbil> Charm </specialAbil>
+         <id> 155 </id>
+         <slot> cloak </slot>
+     </item>
+     
+     <item>
+         <name> Savage pelt </name>
+         <speed> 0 </speed>
+         <brawn> 1 </brawn>
+         <magic> 1 </magic>
+         <armour> 0 </armour>
+         <specialAbil> Savagery </specialAbil>
+         <id> 26 </id>
+         <slot> cloak </slot>
+     </item>
+</items>

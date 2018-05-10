@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enemies>
+    <enemy>
+        <name> Storm elemental </name>
+        <hp> 25 </hp>
+        <speed> 2 </speed>
+        <brawn> 0 </brawn>
+        <magic> 1 </magic>
+        <armour> 1 </armour>
+        <specialAbil> 
+            <abil1>
+                <name> Charged </name>
+                <description> 
+                    Each time you inflict health damage on the elemental, 
+                    you take 2 damage in return. This ability ignores armour.
+                </description>
+            </abil1>
+        </specialAbil>
+    </enemy>
+</enemies>
